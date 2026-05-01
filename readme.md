@@ -42,7 +42,7 @@ Python, Golang, Bash
 - [Kenobi Walkthrough](./writeups/kenobi.md)
 - [SimpleCTF Walkthrough](./writeups/simpleCTF.md)
 - [Pickle Rick Walkthrough](./writeups/pickle-rick.md)
-- [Kioptrix Level 1 Walkthrough](./writeups/kioptrix.md)
+- [Kioptrix Level 1 Walkthrough](./writeups/kioptrixL1.md)
 
 ---
 
