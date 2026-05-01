@@ -68,5 +68,5 @@ Python, Golang, Bash
 ---
 
 ## 📫 Contact
-- LinkedIn: [(your link)](https://www.linkedin.com/in/sk-md-rashid-assef-shibly-397a67bb/)
+- LinkedIn: [(linkedIn)](https://www.linkedin.com/in/sk-md-rashid-assef-shibly-397a67bb/)
 - Email: rashid.assef61@gmail.com
