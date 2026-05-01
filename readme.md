@@ -33,7 +33,7 @@ Python, Golang, Bash
 | Kenobi | [View Report](./pentest-reports/kenobi-report.pdf) |
 | SimpleCTF | [View Report](./pentest-reports/simpleCTF-report.pdf) |
 | Pickle Rick | [View Report](./pentest-reports/pickle-rick-report.pdf) |
-| Kioptrix Level 1 | [View Report](./pentest-reports/kioptrix-report.pdf) |
+| Kioptrix Level 1 | [View Report](./pentest-reports/kioptrixL1-report.pdf) |
 
 ---
 
