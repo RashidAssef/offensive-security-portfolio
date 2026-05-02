@@ -34,6 +34,7 @@ Python, Golang, Bash
 | SimpleCTF | [View Report](./pentest-reports/simpleCTF-report.pdf) |
 | Pickle Rick | [View Report](./pentest-reports/pickle-rick-report.pdf) |
 | Kioptrix Level 1 | [View Report](./pentest-reports/kioptrixL1-report.pdf) |
+| Metasploitable 1 | [View Report](./pentest-reports/metasploitable1-report.pdf) |
 
 ---
 
@@ -43,6 +44,7 @@ Python, Golang, Bash
 - [SimpleCTF Walkthrough](./writeups/simpleCTF.md)
 - [Pickle Rick Walkthrough](./writeups/pickle-rick.md)
 - [Kioptrix Level 1 Walkthrough](./writeups/kioptrixL1.md)
+- [Metasploitable 1 Walkthrough](./writeups/metasploitable1.md)
 
 ---
 
